@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>💫 About Me:</h1>
+</br>
 
-<!--
-**zeeshankhan-SoftEng/zeeshankhan-SoftEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>🔭 I’m currently working on:</h4>
+Improving the scalability and robustness and implementing microservices architecture using Django.
 
-Here are some ideas to get you started:
+<h4>👯 I’m looking to collaborate on:</h4>
+Fullstack projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>🌱 I’m currently learning:</h4>
+Nodejs And PostgreSQL.
+
+<h4>💬 Ask me about:</h4></br>
+JavaScript, React,  Node.js, Python, Django and any general software development questions.
+
+<h4>🌐 Socials:</h4>
+Twitter Instagram LinkedIn
+
+<h4>💻 Tech Stack:</h4>
+NodeJS  CSS3 JavaScript HTML5   Python Solidity   Bootstrap   Express.js MUI  Redux  React Router React TailwindCSS  MongoDB Postgres  Notion
