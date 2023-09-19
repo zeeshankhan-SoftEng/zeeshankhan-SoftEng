@@ -10,7 +10,7 @@ Fullstack projects
 <h4>🌱 I’m currently learning:</h4>
 Nodejs And PostgreSQL.
 
-<h4>💬 Ask me about:</h4></br>
+<h4>💬 Ask me about:</h4>
 JavaScript, React,  Node.js, Python, Django and any general software development questions.
 
 <h4>🌐 Socials:</h4>
