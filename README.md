@@ -1,18 +1,17 @@
-<h1>💫 About Me:</h1>
-<h4>🔭 I’m currently working on:</h4>
-Improving the scalability and robustness and implementing microservices architecture using Django.
+# 💫 About Me:
+**🔭 I’m currently working on:** <br>Improving the scalability and robustness and implementing microservices architecture using Django.<br><br>👯** I’m looking to collaborate on:** <br>Fullstack projects <br><br>🌱 ** I’m currently learning:**Nodejs And PostgreSQL.** 💬<br> Ask me about:
+JavaScript, React,  Node.js, Python, Django and any general software development questions.<br><br>
 
-<h4>👯 I’m looking to collaborate on:</h4>
-Fullstack projects
 
-<h4>🌱 I’m currently learning:</h4>
-Nodejs And PostgreSQL.
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ZeeshanKha_SE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khan_zeeshan_se) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-khan-34009a228)  
 
-<h4>💬 Ask me about:</h4>
-JavaScript, React,  Node.js, Python, Django and any general software development questions.
 
-<h4>🌐 Socials:</h4>
-Twitter Instagram LinkedIn
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<h4>💻 Tech Stack:</h4>
-NodeJS  CSS3 JavaScript HTML5   Python Solidity   Bootstrap   Express.js MUI  Redux  React Router React TailwindCSS  MongoDB Postgres  Notion
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
