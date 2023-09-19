@@ -1,6 +1,4 @@
 <h1>💫 About Me:</h1>
-</br>
-
 <h4>🔭 I’m currently working on:</h4>
 Improving the scalability and robustness and implementing microservices architecture using Django.
 
