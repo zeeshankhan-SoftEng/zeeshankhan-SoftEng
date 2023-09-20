@@ -1,6 +1,5 @@
 # 💫 About Me:
-**🔭 I’m currently working on:** <br>Improving the scalability and robustness and implementing microservices architecture using Django.<br><br>👯**I’m looking to collaborate on:** <br>Fullstack projects <br><br>🌱 **I’m currently learning:Nodejs And PostgreSQL.** 💬<br> Ask me about:
-JavaScript, React,  Node.js, Python, Django and any general software development questions.<br><br>
+**🔭 I’m currently working on:** <br>Improving the scalability and robustness and implementing microservices architecture using Django.<br><br>👯**I’m looking to collaborate on:** <br>Fullstack projects <br><br>🌱 **I’m currently learning:**<br> Nodejs And PostgreSQL.<br><br> **💬 Ask me about:**<br> JavaScript, React,  Node.js, Python, Django and any general software development questions.<br><br>
 
 
 ## 🌐 Socials:
