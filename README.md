@@ -1,10 +1,11 @@
 # 💫 About Me:
-**🔭 I’m currently working on:** <br>Improving the scalability and robustness and implementing microservices architecture using Django.<br><br>👯**I’m looking to collaborate on:** <br>Fullstack projects <br><br>🌱 **I’m currently learning:**<br> Nodejs And PostgreSQL.<br><br> **💬 Ask me about:**<br> JavaScript, React,  Node.js, Python, Django and any general software development questions.<br><br>
+**🔭 I’m currently working on:** <br>Improving the scalability and robustness and implementing microservices architecture using Django.<br><br>👯**I’m looking to collaborate on:** <br>Fullstack projects <br><br>🌱 **I’m currently learning:**<br> Nodejs And PostgreSQL.<br><br> **💬 Ask me about:**<br> JavaScript, React,  Node.js, Python, Django and any general software development questions.<br><br> **✉️ Contact me:** <br> zeeshankhan.softeng@gmail.com<br><br>
 
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ZeeshanKha_SE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/khan_zeeshan_se) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-khan-34009a228)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](https://zeeshankhan.softeng@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-%2383D2E2.svg?style=flat&logo=YOUR_ICON_HERE&logoColor=white)](https://www.zeekse.xyz)
+
 
 
 
