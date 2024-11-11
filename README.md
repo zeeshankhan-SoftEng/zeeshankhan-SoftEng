@@ -16,10 +16,19 @@
 ![Tablue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-FF9900?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![EDA](https://img.shields.io/badge/EDA-4C8BF5?style=for-the-badge&logo=python&logoColor=white)  
+![Predictive Models](https://img.shields.io/badge/Predictive_Models-FF6347?style=for-the-badge&logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1F77B4?style=for-the-badge&logo=tableau&logoColor=white)  
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine_Learning_Algorithms-8B0000?style=for-the-badge&logo=python&logoColor=white)  
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 
 
